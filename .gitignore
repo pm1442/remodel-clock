@@ -1,0 +1,14 @@
+# Dependencies and Expo output
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Local credentials: never upload these
+.env
+.env.*
+!.env.example
+
+# Operating-system files
+.DS_Store
+Thumbs.db
